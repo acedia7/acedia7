@@ -6,7 +6,7 @@
 ---
 ### 兴趣爱好
 我性格阳光，喜欢羽毛球和游戏
-！[魈](https://upload-bbs.miyoushe.com/upload/2023/01/29/292644425/c9094df40fa9788a7091bead5d2c6a86_5369475366842771043.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
+![魈](https://upload-bbs.miyoushe.com/upload/2023/01/29/292644425/c9094df40fa9788a7091bead5d2c6a86_5369475366842771043.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 喜欢在游戏的世界里放松自我，体验不同的人生视角。
 ***
 ### 自我评估
@@ -16,7 +16,7 @@
 ```
 我目前在学系计算机视觉方面的知识，也对这一方面比较感兴趣，我之前有做过目标检测的任务（基本套用源码）[GitHub](https://github.com/acedia7/YOLOv5-transformer-CBMA)
 ，感觉非常有意思，之后也会继续再这一方面探索，感受ai时代的神奇。
-
+***
 ### 未来设想
 我未来跟偏向于考研，想要考上本校的研究生，毕竟现在形式也不是很好，再加上我如果想要在这一领域发展，感觉本科学历是否有点不够？
-！[心酸](https://th.bing.com/th/id/OIP.g4PyFgTVo-QsmCwyrBstlAAAAA?rs=1&pid=ImgDetMain)
+![心酸](https://th.bing.com/th/id/OIP.g4PyFgTVo-QsmCwyrBstlAAAAA?rs=1&pid=ImgDetMain)
