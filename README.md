@@ -6,7 +6,7 @@
 ---
 ### 兴趣爱好
 我性格阳光，喜欢羽毛球和游戏
-![魈](https://upload-bbs.miyoushe.com/upload/2023/01/29/292644425/c9094df40fa9788a7091bead5d2c6a86_5369475366842771043.png?x-oss-process=image/auto-orient,0/interlace,1/format,png)
+![魈](https://th.bing.com/th/id/OIP.eriP3h-oAA73Hhi3803fvAHaD0?rs=1&pid=ImgDetMain)
 喜欢在游戏的世界里放松自我，体验不同的人生视角。
 ***
 ### 自我评估
